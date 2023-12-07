@@ -4,7 +4,7 @@ Repositório para armazenar projetos básicos de Python.
 # Projeto de calculadora
 Faz o cálculo de 4 operações, sendo elas, multiplicação, divisão, adição e subtração.
 
-![image](https://github.com/rafael-marques15/projetos-python/assets/127262823/dd24f384-5389-4328-a2db-8dfbb3388dfa)
+![image](https://github.com/rafael-marques15/projetos-python/assets/127262823/26fb1c8a-0b89-4218-b165-a965cf0af17c)
 
 # Calculadora de IMC
 Faz o cálculo do IMC do usuário
